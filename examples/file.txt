@@ -1,0 +1,11 @@
+Q1 Q2 Q3
+a b
+Z Y
+Q1
+Z
+Q1
+Q1 a Z Q2 YZ
+Q2 a Y Q2 YY
+Q2 b Y Q3 e
+Q3 e Z Q1 e
+Q3 b Y Q3 e
